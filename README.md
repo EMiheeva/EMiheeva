@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
  - student of the Faculty of Mathematics and IT; 
  - study Python, C++, Java, SQL and R;
- - interest in IT: data analysis, machine learning and development
- - study rocket science and translate articles about IT; 
+ - interest in IT: data analysis, machine learning and development;
+ - study rocket science(math) and translate articles about IT; 
  - start doing pet-projects for my dream-work, solving tasks from leetcode and take courses to expand my knowledge
+ - learn English and Norwegian(Bokmål);
+ - in my free time I read books and do self-improvement(coding, language, etc)
