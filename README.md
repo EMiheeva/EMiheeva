@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
  - student of the Faculty of Mathematics and IT; 
- - study Python, C++, Java, SQL and R; 
+ - study Python, C++, Java, SQL and R;
+ - interest in IT: data analysis, machine learning and development
  - study rocket science and translate articles about IT; 
- - I plan to start doing pet-projects for my dream-work, olymp-program and solving tasks from leetcode
+ - start doing pet-projects for my dream-work, solving tasks from leetcode and take courses to expand my knowledge
