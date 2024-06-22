@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - student of the Faculty of Mathematics and IT; 
+ - student of the Faculty of Mathematics and Computer Science; 
  - study Python, C++, Java, SQL and R;
  - interest in IT: data analysis, machine learning and development;
  - study rocket science(math) and translate articles about IT; 
