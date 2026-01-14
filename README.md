@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - student of the Faculty of Mathematics and Computer Science; 
- - study Python, C++, Java, SQL and R;
- - interest in IT: data analysis, machine learning and development;
- - study math-science and translate articles about IT; 
- - start doing pet-projects for my dream-work, solving tasks from leetcode and take courses to expand my knowledge
+ - 💻system analyst (SA) Junior
+ - 🎓 graduate student of the Faculty of Mathematics and Computer Science; 
+ - study Python, C++, Java, SQL, R and GO;
+ - interest in IT: system and data analysis, machine learning and development;
+ - study math-science and translate english articles about IT; 
+ - start doing pet-projects for my dream-work, solving tasks from leetcode (https://leetcode.com/u/Elizaveta_Mikheeva/)
+ - and take courses to expand my knowledge; 
  - learn English and Norwegian(Bokmål);
- - in my free time I read books and do self-improvement(coding, language, etc)
+ - in my free time I read books and do self-improvement(reading, coding, language, etc)
