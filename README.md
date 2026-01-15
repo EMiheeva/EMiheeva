@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
  - 💻system analyst (SA) Junior
- - 🎓 graduate student of the Faculty of Mathematics and Computer Science; 
+ - 🎓 graduate student('21-'25) of the Faculty of Mathematics and Computer Science; 
  - study Python, C++, Java, SQL, R and GO;
  - interest in IT: system and data analysis, machine learning and development;
  - study math-science and translate english articles about IT; 
