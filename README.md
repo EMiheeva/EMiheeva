@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 -->
 
  - 💻system analyst (SA) Junior
- - 🎓 graduate student('21-'25) of the Faculty of Mathematics and Computer Science; 
- - 🎓 Certified AI specialist('24); 
+
+ - 🎓Education (https://github.com/EMiheeva/Certificates_from_courses)
+ - graduate bachelor student('21-'25) of the Faculty of Mathematics and Computer Science (IKBFU); 
+ - digital-department AI specialist('23-'24) (IKBFU + Innopolis);
+ - scientific article about ML ('25)
+   
  - study Python, C++, Java, SQL, R and Go;
  - interest in IT: system and data analysis, machine learning and development;
  - study math-science and translate english articles about IT; 
@@ -23,3 +27,8 @@ Here are some ideas to get you started:
  - and take courses to expand my knowledge; 
  - learn English and Norwegian(Bokmål);
  - in my free time I read books and do self-improvement(reading, coding, language, etc)
+
+- 🔎for Contact:
+- liza.pozition1309@mail.ru
+- melizavetam27@gmail.com
+- 
