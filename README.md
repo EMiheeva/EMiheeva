@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  - scientific article about ML ('25)
 
 🗂️About me
- - study Python, C++, Java, SQL, R and Go;
+ - study Python, SQL, C++, Java, Json, R and Go;
  - interest in IT: system and data analysis, machine learning and development;
  - study math-science and translate english articles about IT; 
  - start doing pet-projects for my dream-work, solving tasks from leetcode (https://leetcode.com/u/Elizaveta_Mikheeva/)
