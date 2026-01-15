@@ -19,7 +19,8 @@ Here are some ideas to get you started:
  - graduate bachelor student('21-'25) of the Faculty of Mathematics and Computer Science (IKBFU); 
  - digital-department AI specialist('23-'24) (IKBFU + Innopolis);
  - scientific article about ML ('25)
-   
+
+🗂️About me
  - study Python, C++, Java, SQL, R and Go;
  - interest in IT: system and data analysis, machine learning and development;
  - study math-science and translate english articles about IT; 
@@ -28,6 +29,6 @@ Here are some ideas to get you started:
  - learn English and Norwegian(Bokmål);
  - in my free time I read books and do self-improvement(reading, coding, language, etc)
 
-🔎for Contact:
+🔎for Contact
 - liza.pozition1309@mail.ru
 - melizavetam27@gmail.com
