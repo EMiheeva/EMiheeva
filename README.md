@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - 💻system analyst (SA) Junior
+💻System analyst (SA) Junior
 
- - 🎓Education (https://github.com/EMiheeva/Certificates_from_courses)
+🎓Education (https://github.com/EMiheeva/Certificates_from_courses)
  - graduate bachelor student('21-'25) of the Faculty of Mathematics and Computer Science (IKBFU); 
  - digital-department AI specialist('23-'24) (IKBFU + Innopolis);
  - scientific article about ML ('25)
@@ -28,7 +28,6 @@ Here are some ideas to get you started:
  - learn English and Norwegian(Bokmål);
  - in my free time I read books and do self-improvement(reading, coding, language, etc)
 
-- 🔎for Contact:
+🔎for Contact:
 - liza.pozition1309@mail.ru
 - melizavetam27@gmail.com
-- 
