@@ -27,6 +27,7 @@ Here are some ideas to get you started:
  - start doing pet-projects for my dream-work, solving tasks from leetcode (https://leetcode.com/u/Elizaveta_Mikheeva/)
  - and take courses to expand my knowledge; 
  - learn English and Norwegian(Bokmål);
+ - go to the gym;
  - in my free time I read books and do self-improvement(reading, coding, language, etc)
 
 🔎for Contact
