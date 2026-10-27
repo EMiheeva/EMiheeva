@@ -34,9 +34,10 @@ stack:
  - study math-science and translate english articles about IT; 
  - start doing pet-projects for my dream-work, solving tasks from leetcode (https://leetcode.com/u/Elizaveta_Mikheeva/)
  - and take courses to expand my knowledge; 
- - learn English (from A2 to B1) and Norwegian(Bokmål);
- - go to the gym;
- - in my free time I read books and do self-improvement(reading, coding, language, etc)
+ - learn English (strong A2 moving toward B1) and Norwegian(Bokmål);
+ - in my free time I read a lot of books and do self-improvement(reading, coding, language, etc)
+ - in my free time, I enjoy playing chess to keep my analytical mind sharp
+ - go to the gym
 
 🔎for Contact
 - liza.pozition1309@mail.ru
