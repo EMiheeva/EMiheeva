@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 -->
 
 💻System analyst (SA) Junior
+stack: 
+ - Modeling & diagrams & Business process: BPMN, Sequence, PlantUML Use Case, ER, Camunda
+ - API & Integrations: Swagger (OpenAPI), REST API, XML/XSD scheme, JSON
+ - Databases: PostgreSQL, DBeaver
+ - Message Brokers: Apache Kafka, RabbitMQ
+ - Monitoring & Logs & DevTools:  Kibana, Grafana, DevTools (Console, Network, WebSocket)
+ - Tools & WorkFlow: Git, GitBash, VS Code, PyCharm
+ 
 
 🎓Education (https://github.com/EMiheeva/Certificates_from_courses)
  - graduate bachelor student('21-'25) of the Faculty of Mathematics and Computer Science (IKBFU); 
@@ -21,12 +29,12 @@ Here are some ideas to get you started:
  - scientific article about ML ('25)
 
 🗂️About me
- - study Python, SQL, C++, Java, Json, R and Go;
+ - study Python, SQL, C++, Java, JSON, R and Go;
  - interest in IT: system and data analysis, machine learning and development;
  - study math-science and translate english articles about IT; 
  - start doing pet-projects for my dream-work, solving tasks from leetcode (https://leetcode.com/u/Elizaveta_Mikheeva/)
  - and take courses to expand my knowledge; 
- - learn English and Norwegian(Bokmål);
+ - learn English (from A2 to B1) and Norwegian(Bokmål);
  - go to the gym;
  - in my free time I read books and do self-improvement(reading, coding, language, etc)
 
